@@ -28,7 +28,7 @@
      "required" :true
     },
   "HEROKU_APP_NAME": {
-    "description": "sherryhereui",
+    "description": "sherryhereu",
      "required" :true
     },
    "THUMB_IMAGE": {
