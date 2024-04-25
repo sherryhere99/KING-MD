@@ -1,7 +1,7 @@
 { 
   "name": "SHERRY-MD",
   "description": "A Whatsapp md bot built By SHERRY to make experience better",
-  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
+  "logo": "https://telegra.ph/file/8ccd78ebe0008313a7372.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
@@ -24,7 +24,7 @@
     "value": "true"
       },
     "HEROKU_API_KEY": {
-    "description": "8d10dce8-64b5-4634-8de7-fffe9714c189",
+    "description": "HRKU-fa4c8bfd-6c55-4232-a50b-5367487f4078",
      "required" :true
     },
   "HEROKU_APP_NAME": {
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot.",
-     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
+     "value": "https://telegra.ph/file/8ccd78ebe0008313a7372.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -91,7 +91,7 @@
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
-       "value": "8d10dce8-64b5-4634-8de7-fffe9714c189",
+       "value": "HRKU-fa4c8bfd-6c55-4232-a50b-5367487f4078",
        "required" :false
   },
   "MONGODB_URI": {
@@ -122,7 +122,7 @@
   "heroku": {
     "description": "Weather it is on heroku or not",
      "value": "true",
-     "required": false   
+     "required": true
   }
 },
 "formation": {
